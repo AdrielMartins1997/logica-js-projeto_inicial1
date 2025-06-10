@@ -1,1 +1,1 @@
-# logica-js-projeto_inicial1
+Mais uma conquista, vou praticando até ficar legal. Deus
