@@ -20,4 +20,5 @@ while (chute != numeroSecreto) {
     }
 
 // testando o meu aprendizado com git e githubbbbb
-// vamos ver se agora vaaaaaaiiiiiiiiii
+//teste fazer alterações no git pelo vs code web
+//testando alterações com git e github vs code app
