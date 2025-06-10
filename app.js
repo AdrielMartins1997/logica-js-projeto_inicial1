@@ -22,3 +22,4 @@ while (chute != numeroSecreto) {
 // testando o meu aprendizado com git e githubbbbb
 //teste fazer alterações no git pelo vs code web
 //testando alterações com git e github vs code app
+//onlinde total
